@@ -6,8 +6,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Calendar;
 
-import com.mirza.Employee;
-import com.mirza.dao.ConnectionFactory;
+import com.madhu.Employee;
+import com.madhu.dao.ConnectionFactory;
 
 public class EmployeeDAO {
 	
