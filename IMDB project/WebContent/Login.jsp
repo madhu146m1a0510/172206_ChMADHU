@@ -7,10 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Login</h1>
+
+<center>
 <form action="Loginservlet" method="post">
 <table style="with: 50%">
-				
+			<h1>Login</h1>	
 				
 				<tr>
 					<td>UserName</td>
@@ -23,5 +24,6 @@
 				
 				</table>
 			<input type="submit" value="Submit" /></form>
+			</center>
 </body>
 </html>

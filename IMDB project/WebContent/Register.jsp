@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<center>
 <h1>Registration</h1>
 <form action="Registerservlet" method="post">
 			<table style="with: 50%">
@@ -43,6 +44,7 @@
 				</tr>
 				</table>
 			<input type="submit" value="Submit" /></form>
+			</center>
 </body>
 </body>
 </html>

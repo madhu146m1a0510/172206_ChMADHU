@@ -25,7 +25,7 @@ public class Loginservlet extends HttpServlet {
 	    String n=request.getParameter("username");  
 	    String p=request.getParameter("password");  
 	    if(LoginDAO.validate(n, p)){  
-	       response.sendRedirect("NewFile1.html");
+	       response.sendRedirect("comments.jsp");
 	    }  
 	    else{  
 	        

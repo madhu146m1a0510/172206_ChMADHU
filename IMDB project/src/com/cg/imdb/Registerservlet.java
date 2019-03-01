@@ -64,7 +64,7 @@ public class Registerservlet extends HttpServlet {
 			e1.printStackTrace();
 		}
 		if (status == true) {
-			response.sendRedirect("NewFile1.html");
+			response.sendRedirect("Home.html");
 		}
 	}
 
