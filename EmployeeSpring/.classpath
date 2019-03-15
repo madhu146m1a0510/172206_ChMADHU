@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringJar&apos;s"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/11.2.0/server/jdbc/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/madhu/mysql-connector-java-5.1.43.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/madhu/org.springframework.jdbc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/madhu/org.springframework.transaction-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/jars/org.springframework.context_4.3.15.20180306-CI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Downloads/spring-tool-suite-3.9.5.RELEASE-e4.8.0-win32-x86_64/sts-bundle/sts-3.9.5.RELEASE/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/aop jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/aop jars/aspectj-1.9.2-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/aop jars/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/aop jars/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/aop jars/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/aop jars/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/slf4j jars/slf4j-api-1.8.0-beta4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vchellur/Desktop/slf4j jars/slf4j-simple-1.8.0-beta4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

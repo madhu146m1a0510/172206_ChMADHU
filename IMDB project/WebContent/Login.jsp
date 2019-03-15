@@ -9,7 +9,8 @@
 <body>
 
 <center>
-<form action="Loginservlet" method="post">
+	<form action="Loginservlet" method="POST">
+
 <table style="with: 50%">
 			<h1>Login</h1>	
 				
